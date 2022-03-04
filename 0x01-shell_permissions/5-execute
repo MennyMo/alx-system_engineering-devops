@@ -1,0 +1,4 @@
+#!/bin/bash
+vi hello
+chmod a+x hello
+./hello
