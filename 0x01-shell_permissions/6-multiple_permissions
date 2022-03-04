@@ -1,0 +1,6 @@
+#!bin/bash
+vi hello
+chmod u+x hello
+chmod g+x hello
+chmod o+r hello
+./6-multiple_permissions

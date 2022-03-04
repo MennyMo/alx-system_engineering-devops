@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod u+rw hello
+chmod g+rx hello
+chmod o+wx hello
+./9-John_Doe

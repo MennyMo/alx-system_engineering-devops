@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod u-xrw ./hello
+chmod g-xrw ./hello
+chmod o+xrw ./hello
+./8-James_Bond
